@@ -4,6 +4,7 @@
 - 💞️ I’m looking to be able to do coding on my own and learn as much as possible in various aspects of networking and computing.
       Little late to realise that most of the knowlede i wanted to get about these things were able to acquire for free and during extra times after work.
 - 📫 email  : k.0666@neo.slmail.me
+-     Jabber: kv0666@jabb3r.org
                         
 
 <!---
